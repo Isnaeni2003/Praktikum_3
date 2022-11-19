@@ -1,0 +1,10 @@
+def pengulangan():
+    print("masukkan 3 bilangan yang diinginkan")
+    a=int(input('bilangan 1 = '))
+    b=int(input('bilangan 2 = '))
+    c=int(input('bilangan 3 = '))
+    jj = [a,b,c]
+    jj.sort()
+    print(jj)
+
+pengulangan()
