@@ -28,3 +28,10 @@ Di Python, ada dua jenis struktur loop, for untuk ulangi beberapa kali yang tela
 Dalam codingan membuat program bilangan acak saya memakai statement import random yaitu untuk membuat secara otomatis bilangan tersebut menjadi acak. Dan menggunakan statement float agar bilangan tersebut menjadi bilangan berkoma,serta penggunaan while untuk membuat angka tersebut berulang sampe ke angka 6. Dan penggunaan if untuk membuat angka tersebut hanya sampai di 5 dan break sebentar kemudian saya membuat logic + 1 agar angka tersebut bertambah 1 dan setersunya.
 ![acak](https://user-images.githubusercontent.com/115929351/202978113-b7275236-cd95-4acd-9a4c-3f021b9a2d4f.png)
 Ini adalah hasil output dari program membuat bilagan acak yang kurang dari 0,5 yang memakai penggunaan while dan for, ketika di run kembali maka hasilnya akan berubah tetapi angka tersebut akan tetap kurang dari 0,5.
+# Modul 3 (Penggunaan While and If)
+## Program Membuat Laba 
+![rrrrr](https://user-images.githubusercontent.com/115929351/202982557-22ff1517-3bb4-44ea-9e67-3e0a36e0c5b4.png)
+Pada codingan ini saya memakai If berfungsi apabila ketemu bulan yang diinginkan maka bulan dikalikan 1%, dan statement while berfungsi untuk menentukan bulan keberapa
+![tt12312](https://user-images.githubusercontent.com/115929351/202983244-e4f84b65-030f-40ac-87ab-642cfa7627ee.png)
+Ini adalah hasil output menghitung laba per bulan, dan saya memakai def fungsi untuk membuat pengulangan pada hasil bunga di bulan berikutnya.
+# Thanks for a read
