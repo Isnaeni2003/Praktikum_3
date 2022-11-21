@@ -21,5 +21,10 @@ Fungsi nested for, artinya satu fungsi for di dalam yang lain, memungkinkan Anda
 Di codingan ini untuk membuat program perulangan bertingkat saya menggunakan statement if dalam if atau bersarang, untuk membuat bilangan berbaris vertikal dan horizontal sebanyak 10 baris dan angka range 10.
 ![nested py](https://user-images.githubusercontent.com/115929351/202942969-b845d7e2-55d8-4ae1-bf06-0a0a1296797e.png)
 Ini adalah hasil output dari program perulangan bertingkat atau bersarang, seperti yang dimasukkan di codingan saya memakai range angka 10 dan pemakaian if dalam if saya memakai range 0-10 berarti baris vertikal dan horizontal yang dihasilkan rentang angka 0-10.
-## Latihan 2 
-y
+## Latihan 2 (Kombinasi While and For)
+Di Python, ada dua jenis struktur loop, for untuk ulangi beberapa kali yang telah ditentukan sebelumnya. Ini juga dikenal sebagai iterasi pasti while teruskan iterasi sampai kondisinya terpenuhi false. Ini dikenal sebagai iterasi tak terbatas.
+## Program Membuat Bilangan Acak
+![aca koding](https://user-images.githubusercontent.com/115929351/202975144-a216f009-5914-488e-9639-0ea2df4c354f.png)
+Dalam codingan membuat program bilangan acak saya memakai statement import random yaitu untuk membuat secara otomatis bilangan tersebut menjadi acak. Dan menggunakan statement float agar bilangan tersebut menjadi bilangan berkoma,serta penggunaan while untuk membuat angka tersebut berulang sampe ke angka 6. Dan penggunaan if untuk membuat angka tersebut hanya sampai di 5 dan break sebentar kemudian saya membuat logic + 1 agar angka tersebut bertambah 1 dan setersunya.
+![acak](https://user-images.githubusercontent.com/115929351/202978113-b7275236-cd95-4acd-9a4c-3f021b9a2d4f.png)
+Ini adalah hasil output dari program membuat bilagan acak yang kurang dari 0,5
