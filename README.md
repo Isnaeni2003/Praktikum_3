@@ -27,4 +27,4 @@ Di Python, ada dua jenis struktur loop, for untuk ulangi beberapa kali yang tela
 ![aca koding](https://user-images.githubusercontent.com/115929351/202975144-a216f009-5914-488e-9639-0ea2df4c354f.png)
 Dalam codingan membuat program bilangan acak saya memakai statement import random yaitu untuk membuat secara otomatis bilangan tersebut menjadi acak. Dan menggunakan statement float agar bilangan tersebut menjadi bilangan berkoma,serta penggunaan while untuk membuat angka tersebut berulang sampe ke angka 6. Dan penggunaan if untuk membuat angka tersebut hanya sampai di 5 dan break sebentar kemudian saya membuat logic + 1 agar angka tersebut bertambah 1 dan setersunya.
 ![acak](https://user-images.githubusercontent.com/115929351/202978113-b7275236-cd95-4acd-9a4c-3f021b9a2d4f.png)
-Ini adalah hasil output dari program membuat bilagan acak yang kurang dari 0,5
+Ini adalah hasil output dari program membuat bilagan acak yang kurang dari 0,5 yang memakai penggunaan while dan for, ketika di run kembali maka hasilnya akan berubah tetapi angka tersebut akan tetap kurang dari 0,5.
